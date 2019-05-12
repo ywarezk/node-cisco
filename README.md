@@ -75,6 +75,31 @@ https://medium.com/@mihaigeorge.c/web-rest-api-benchmark-on-a-real-life-applicat
 ### small demo
 
 
+### RXJS
+
+- Data Stream
+
+----+--------+-------+-----+----> t
+
+pulse string hello world
+
+Observable<string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
