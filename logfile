@@ -3,3 +3,7 @@
 2019-05-12 11:17:12.304 IDT [8382] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
 2019-05-12 11:17:12.319 IDT [8383] LOG:  database system was shut down at 2019-05-12 11:16:53 IDT
 2019-05-12 11:17:12.322 IDT [8382] LOG:  database system is ready to accept connections
+2019-05-14 21:20:22.390 IDT [8382] LOG:  received smart shutdown request
+2019-05-14 21:20:22.392 IDT [8382] LOG:  worker process: logical replication launcher (PID 8389) exited with exit code 1
+2019-05-14 21:20:22.393 IDT [8384] LOG:  shutting down
+2019-05-14 21:20:22.913 IDT [8382] LOG:  database system is shut down
